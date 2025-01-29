@@ -1,7 +1,9 @@
 # High-Street-gym
- There will be a new  and biter version  coming soon  for high street gym project . 
- 
- Please   Download  the  file to see the  full project code 
-  please  keep  in mind  that  this project  has a lcense  please   read the lcense before  you make any changes 
+A new and improved version of the High Street Gym project is coming soon!
+
+Please download the file to access the full project code.
+
+Important: This project is licensed. Make sure to read the license terms before making any modifications.
+
 
     
