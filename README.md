@@ -1,5 +1,6 @@
 # High-Street-gym
 A new and improved version of the High Street Gym project is coming soon!
+
  just a note  that there may  be eorr in this  vision  this poject is currently under redevelopment  thank you so much for your unberstanding
 
 Please download the file to access the full project code.
