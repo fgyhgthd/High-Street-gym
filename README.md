@@ -1,8 +1,7 @@
 # High-Street-gym
-A new and improved version of the High Street Gym project is coming  by the  end of  march  or the start of April the new website  is ready and it  is now going  under  testing to make sure that it is working as expected 
+ This is a old  viesion of High Street Gym
 
- just a note  that there may  be eorr in this  vision  this poject is currently under redevelopment  thank you so much for your unberstanding
-
+ just a note  that there may  be eorr in this  vision 
 Please download the file to access the full project code.
 
 Important: This project is licensed. Make sure to read the license terms before making any modifications.
