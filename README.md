@@ -1,7 +1,16 @@
 # High-Street-gym
-A new and improved version of the High Street Gym project is coming  by the  end of  march  or the start of April the new website  is ready and it  is now going  under  testing to make sure that it is working as expected 
+This is a new viesion of High Street Gym
 
- just a note  that there may  be eorr in this  vision  this poject is currently under redevelopment  thank you so much for your unberstanding
+password and email for the user mangers , trainer and members
+
+mangers email - user@outlook.com.au, mangers
+password - User002@
+
+trainer email - trainer@oulook.com trainer
+password - Trainer
+
+members email - m@yahoo.com 
+members password - Membering
 
 Please download the file to access the full project code.
 
