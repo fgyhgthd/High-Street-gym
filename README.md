@@ -2,6 +2,8 @@
 This is a new viesion  of High Street Gym 
 
  password and  email for the user mangers , trainer  and members 
+
+ 
  mangers email -  user@outlook.com.au,
  mangers password - User002@
 
