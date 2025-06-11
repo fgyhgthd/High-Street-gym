@@ -2,9 +2,7 @@
 
 Welcome to the official preview of the **High Street Gym** Full Stack Web Application.
 
-This mobile-first full stack application is designed to support **members** and **trainers** in managing their health and fitness activities online. The system is currently under final development and testing and will be available on GitHub soon.
-
-We appreciate your patience and understanding as we prepare for the release.
+This mobile-first full stack application is designed to support **members** and **trainers** in managing their health and fitness activities online. 
 
 ---
 
@@ -43,14 +41,7 @@ We appreciate your patience and understanding as we prepare for the release.
 - 👤 **Profile Management**  
   All users can update their personal details, such as name, contact information, and password.
 
----
 
-## 🚧 Project Status
-
-> **Currently in Testing Phase**  
-> The source code and demo will be available here on GitHub soon.
-
----
 
 ## ⚠️ License
 
