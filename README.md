@@ -1,4 +1,5 @@
-🏋️‍♂️ High-Street-Gym Full Stack Web Application
+# 🏋️‍♂️ High-Street-Gym Full Stack Web Application
+
 Welcome to the official preview of the High Street Gym Full Stack Web Application.
 
 This mobile-first application supports members, trainers, and managers in managing health and fitness activities both online and internally.
