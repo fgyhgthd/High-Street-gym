@@ -1,52 +1,106 @@
-# 🏋️‍♂️ High-Street-Gym Full Stack Web Application
+🏋️‍♂️ High-Street-Gym Full Stack Web Application
+Welcome to the official preview of the High Street Gym Full Stack Web Application.
 
-Welcome to the official preview of the **High Street Gym** Full Stack Web Application.
+This mobile-first application supports members, trainers, and managers in managing health and fitness activities both online and internally.
 
-This mobile-first full stack application is designed to support **members** and **trainers** in managing their health and fitness activities online. 
+✨ Key Features
+✅ Member-Only Sign-Up
+Public registration is available only for members. Trainers and managers are registered internally.
 
----
+🔐 User Authentication
+Secure login system using email and password. User roles include:
 
-## ✨ Key Features
+Member — Book classes, view timetable, post to blog, and export data
 
-- ✅ **Member-Only Sign-Up Page**  
-  Public registration is available only for members. Trainers are registered internally.
+Trainer — Manage sessions and export weekly schedules
 
-- 🔐 **User Authentication**  
-  Secure login system using email and password. Roles include `member` and `trainer`, which determine access permissions.
+Manager — Access internal tools (backend only)
 
-- 📅 **Responsive Timetable Viewer**  
-  View weekly gym session schedules across all locations. Optimized for mobile, tablet, and desktop.
+📅 Responsive Timetable Viewer
+View weekly gym session schedules across all locations. Fully responsive for mobile, tablet, and desktop devices.
 
-- 🧘 **Class Booking System**  
-  Members can:
-  - View available sessions
-  - Select a trainer when multiple are available
-  - Book sessions directly from the schedule
+🧘 Class Booking System
+Members can:
 
-- 🗓️ **Booking Management**  
-  Members can review and cancel upcoming class bookings.
+View available sessions
 
-- 🧾 **XML Export for Trainers**  
-  Trainers can export their weekly session schedules in XML format for calendar integration.
+Select a trainer when multiple are available
 
-- 📤 **XML Export for Members**  
-  Members can export past booking data with activity information for fitness tracking apps.
+Book sessions directly from the schedule
 
-- 📝 **Member Microblog**  
-  Members can:
-  - Create and delete their own posts
-  - View all posts in a shared feed  
-  *(Posts are text-only. Admin moderation is supported.)*
+🗓️ Booking Management
+Members can review and cancel upcoming class bookings at any time.
 
-- 👤 **Profile Management**  
-  All users can update their personal details, such as name, contact information, and password.
+🧾 XML Export (Frontend Only)
+Trainers: Export weekly session schedules (for external calendars)
 
+Members: Export past booking data (for fitness tracking apps)
 
+📝 Member Microblog
+Create and delete personal posts
 
-## ⚠️ License
+View a shared community feed
+(Admin moderation supported)
 
+👤 Profile Management
+All users can update personal details — including name, contact information, and password.
+
+🧭 Project Structure
+This project includes two websites:
+
+1. 🔧 Backend Interface
+Location: /backend/
+
+Used by: Members, Trainers, and Managers
+
+Built with: Node.js, Express.js
+
+Purpose:
+
+Internal user/session management
+
+Booking logic and validation
+
+Admin-only access and logging
+
+Note: XML export features are not supported here.
+
+Access: Requires login credentials (see below)
+
+2. 🌐 Frontend Application
+Location: /frontend/
+
+Built with: React.js
+
+Used by: Members and Trainers
+
+Purpose:
+
+Public-facing interface for booking, blogging, schedule viewing
+
+Supports all key features, including XML export
+
+Note: Managers do not have access to the frontend
+
+🔐 Login Details
+➤ Manager (Backend Only)
+Role: Manager
+
+Email: mayurbhagat@outlook.com
+
+Password: Viren001@
+
+➤ Trainer
+Role: Trainer
+
+Email: mayurbhagat9@outlook.com
+
+Password: Viren001@
+
+➤ Member
+You can create your own account directly from the website’s signup page.
+
+⚠️ License
 This project is licensed. Please review the license terms before modifying or redistributing any part of the codebase.
 
----
-
-© 2025 High Street Gym — Made with ❤️ by **Mayur Bhagat**
+© 2025 High Street Gym — Made with ❤️ by Mayur Bhagat
