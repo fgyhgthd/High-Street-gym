@@ -102,6 +102,11 @@ Password: Viren001@
 You can create your own account directly from the website’s signup page.
 
 ⚠️ License
-This project is licensed. Please review the license terms before modifying or redistributing any part of the codebase.
+
+This website is protected by a license. Please take a moment to review the terms before making any changes or sharing the code.
+
+By using this site, you agree to accept all risks. The creators aren’t responsible for any issues, errors, or data loss.
+
+You may not edit, copy, or use the code for commercial purposes unless you have permission from Mayur Bhagat.
 
 © 2025 High Street Gym — Made with ❤️ by Mayur Bhagat
